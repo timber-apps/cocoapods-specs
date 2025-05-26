@@ -1,6 +1,6 @@
 {
   "name": "ffmpeg-kit-ios-min-gpl",
-  "version": "6.0",
+  "version": "6.0.1",
   "summary": "FFmpeg Kit iOS Min GPL Shared Framework",
   "description": "Includes FFmpeg with libvid.stab, x264, x265 and xvidcore libraries enabled.",
   "homepage": "https://github.com/arthenica/ffmpeg-kit",
